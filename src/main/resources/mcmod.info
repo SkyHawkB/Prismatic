@@ -1,0 +1,16 @@
+[
+{
+  "modid": "prismatic",
+  "name": "Prismatic",
+  "description": "Rainbows.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SkyHawkB", "The_Stargazer"],
+  "credits": "The_Stargazer, for the idea.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

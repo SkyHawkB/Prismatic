@@ -1,0 +1,20 @@
+
+language.name=Русский
+language.region=Россия
+language.code=ru_ru
+
+item.prismatic.rainbow_dust.name=Радужнaя Пыль
+item.prismatic.pure_ingot.name=Священный Слиток
+item.prismatic.pure_helmet.name=Священный Шлем
+item.prismatic.pure_chestplate.name=Священн
+item.prismatic.pure_leggings.name=Священн ?
+item.prismatic.pure_boots.name=Священные Сапоги
+item.prismatic.pure_sword.name=Священный Меч
+item.prismatic.pure_axe.name=Священный Топор
+item.prismatic.pure_hoe.name=Священн ?
+item.prismatic.pure_pickaxe.name=Священн ?
+item.prismatic.pure_shovel.name=Священная Лопата
+
+tile.prismatic.rainbow_block.name=Радужный Блок
+tile.prismatic.rainbow_ore.name=Радужная Руда
+tile.prismatic.pure_block.name=Священный Блок

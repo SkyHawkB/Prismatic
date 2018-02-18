@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "prismatic:rainbow_dust"
+    }
+  },
+  "result": {
+    "item": "prismatic:rainbow_block",
+    "count": 1
+  }
+}

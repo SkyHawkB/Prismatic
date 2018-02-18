@@ -1,0 +1,20 @@
+
+language.name=English
+language.region=United States
+language.code=en_us
+
+item.prismatic.rainbow_dust.name=Rainbow Dust
+item.prismatic.pure_ingot.name=Pure Ingot
+item.prismatic.pure_helmet.name=Pure Helmet
+item.prismatic.pure_chestplate.name=Pure Chestplate
+item.prismatic.pure_leggings.name=Pure Leggings
+item.prismatic.pure_boots.name=Pure Boots
+item.prismatic.pure_sword.name=Pure Sword
+item.prismatic.pure_axe.name=Pure Axe
+item.prismatic.pure_hoe.name=Pure Hoe
+item.prismatic.pure_pickaxe.name=Pure Pickaxe
+item.prismatic.pure_shovel.name=Pure Shovel
+
+tile.prismatic.rainbow_block.name=Rainbow Block
+tile.prismatic.rainbow_ore.name=Rainbow Ore
+tile.prismatic.pure_block.name=Pure Block

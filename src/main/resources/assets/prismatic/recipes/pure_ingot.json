@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "prismatic:pure_block"
+    }
+  ],
+  "result": {
+    "item": "prismatic:pure_ingot",
+    "count": 9
+  }
+}

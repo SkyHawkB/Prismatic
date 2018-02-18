@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "prismatic:rainbow_block"
+    }
+  ],
+  "result": {
+    "item": "prismatic:rainbow_dust",
+    "count": 9
+  }
+}

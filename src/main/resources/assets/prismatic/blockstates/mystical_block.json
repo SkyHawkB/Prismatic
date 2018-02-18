@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": {
+      "model": "prismatic:mystical_block"
+    },
+    "inventory": {
+      "model": "prismatic:mystical_block"
+    }
+  }
+}

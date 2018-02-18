@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": {
+          "model": "prismatic:rainbow_block"
+        },
+        "inventory": {
+          "model": "prismatic:rainbow_block"
+        }
+    }
+}

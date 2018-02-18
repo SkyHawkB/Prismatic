@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "prismatic:pure_ingot"
+    }
+  },
+  "result": {
+    "item": "prismatic:pure_block",
+    "count": 1
+  }
+}
